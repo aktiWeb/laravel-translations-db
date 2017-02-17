@@ -45,8 +45,8 @@ class DatabaseLoader implements LoaderInterface {
      *
      * @return array
      */
-    public function namespaces();
-    
+    public function namespaces() {}
+
     /**
      * Adds a new translation to the database
      *
